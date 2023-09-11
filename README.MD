@@ -52,4 +52,3 @@ O sistema utiliza um banco de dados PostgreSQL para armazenar informações. Cer
 
 Este sistema foi criado para fins didáticos, mas você é bem-vindo para contribuir com melhorias, correções de bugs ou adicionar novos recursos. Sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
 
-Aproveite o sistema e bons estudos! 📖🎓
